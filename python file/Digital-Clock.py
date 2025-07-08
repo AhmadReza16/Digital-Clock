@@ -44,4 +44,4 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     clock = DigitalClock()
     clock.show()
-    sys.exit(app.exec_())s
+    sys.exit(app.exec_())
