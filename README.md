@@ -57,9 +57,10 @@ Simply open `index.html` in your browser.
 
 📸 Preview JavaScript
 
-<img width="1366" height="768" alt="Screenshot-Digital-Clock-1" src="https://github.com/user-attachments/assets/7d24b848-4b52-45e3-8ab2-712728fe237f" />
+<img width="1366" height="631" alt="Screenshot-Digital-Clock-1" src="https://github.com/user-attachments/assets/c1a569dd-86e6-4ec7-b015-3d4336433338" />
 
 ---
+
 ### Python GUI Version:
 Make sure you have Python installed, then run:
 
@@ -67,8 +68,9 @@ Make sure you have Python installed, then run:
 
 📸 Preview Python
 
-<img width="1366" height="768" alt="Screenshot-Digital-Clock-2" src="https://github.com/user-attachments/assets/e95bd418-347e-478d-a58c-7711b73858ae" />
+<img width="952" height="372" alt="Screenshot-Digital-Clock-2" src="https://github.com/user-attachments/assets/387f4a6a-a6cc-42d0-85df-84b44b80e297" />
 
+---
 
 ```bash
 cd "python file"
