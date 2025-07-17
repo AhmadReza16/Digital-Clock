@@ -53,9 +53,22 @@ This is for **educational and practice purposes only**.
 
 ### Web Version:
 Simply open `index.html` in your browser.
+---
 
+📸 Preview JavaScript
+
+<img width="1366" height="768" alt="Screenshot-Digital-Clock-1" src="https://github.com/user-attachments/assets/7d24b848-4b52-45e3-8ab2-712728fe237f" />
+
+---
 ### Python GUI Version:
 Make sure you have Python installed, then run:
+
+---
+
+📸 Preview Python
+
+<img width="1366" height="768" alt="Screenshot-Digital-Clock-2" src="https://github.com/user-attachments/assets/e95bd418-347e-478d-a58c-7711b73858ae" />
+
 
 ```bash
 cd "python file"
